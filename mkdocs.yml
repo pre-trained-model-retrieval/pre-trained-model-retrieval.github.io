@@ -1,0 +1,10 @@
+site_name: NTCIR-19 Pre-trained Model Retrieval Task
+site_url: https://pre-trained-model-retrieval.github.io
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+site_dir: docs
+docs_dir: src
